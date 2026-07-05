@@ -1,4 +1,3 @@
-Here's a professional `README.md` that you can use for your GitHub repository.
 
 # 🔐 Password Generator App
 
