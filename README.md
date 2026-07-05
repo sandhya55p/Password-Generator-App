@@ -45,8 +45,7 @@ A modern and responsive Password Generator application built with **React**. Thi
 src
 ├── Components
 │   ├── Navbar.jsx
-│   ├── PasswordGenerator.jsx
-│   └── PasswordHistory.jsx
+│  
 │
 ├── Context
 │   ├── PasswordContext.jsx
